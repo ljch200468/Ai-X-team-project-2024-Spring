@@ -2,6 +2,7 @@
 
 ### (1) Title
 **두 개의 스트림 CNN-LSTM 알고리즘을 기반으로 한 굴착기 활동 인식**
+**(Excavator Activity Recognition Based on Two-Stream CNN-LSTM Algorithm)**
 
 ### Note
 두 명의 중국 유학생으로서, 한글 표현에 있어서 정확하지 않은 부분이 있을 수 있으니 양해 부탁드립니다.
