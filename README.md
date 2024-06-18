@@ -1,4 +1,7 @@
 ## Teamwork: Option A
+### Youtube link:
+
+**https://www.youtube.com/watch?v=vE79n678eJo**
 
 ### (1) Title
 **두 개의 스트림 CNN-LSTM 알고리즘을 기반으로 한 굴착기 활동 인식**
