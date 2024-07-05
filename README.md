@@ -42,9 +42,6 @@ Muti-Stream CNN-LSTM 알고리즘을 이용하여 다양한 굴삭기 활동을 
 - [ACIDb](https://www.acidb.ca/)
 - [CIS-Dataset](https://github.com/XZ-YAN/CIS-Dataset)
 
-![image](https://github.com/ljch200468/Ai-X-team-project-2024-Spring/assets/170994864/b252a005-8b31-406d-a713-c39ae0b9c9fd)
-
-**그림 1: 다양한 굴착기 활동을 포함하는 5가지 유형의 이미지 데이터셋입니다.**
 
 #### 2. Data annotation
 5000장의 이미지 중에서 ACIDb 및 CIS-Dataset 공공 데이터셋에 포함된 굴착기 활동 이미지는 이미 라벨링된 카테고리 정보가 있습니다. 이 부분 데이터에 대해서는 수작업 검사를 통해 사진 라벨 정보의 정확성을 확보했습니다. Jongwon Seo 교수의 연구실에서 제공하는 굴착기 활동 이미지는 카테고리 정보가 표시되어 있지 않아, 이 부분 데이터는 수작업으로 라벨을 붙였습니다. 원본 이미지 데이터셋의 라벨 정보는 아래 그림 2와 같습니다.
